@@ -2,16 +2,20 @@ A space-survival game where you control a spaceship and dodge incoming asteroids
 achieve the highest score. Best for fun and implimenting basic game development concepts.
 
 # Features:
-	1. Smooth spaceship movement 
-	2. Randomly creating asteroids 
-	3. Score increase over time.
-	4. Game over screen
-	5. Clean UI and simple control
-	6. Lightweight and easy to run
-	7. Spaceship can shoot lasers
-	8. Large Asteroids splits into two smaller asteroids.
-	9. Increasing more diffuilty when fragment increases.
+	 Smooth spaceship movement 
+	 Randomly creating asteroids 
+	 Score increase over time.
+	 Game over screen
+	 Clean UI and simple control
+	 Lightweight and easy to run
+	 Spaceship can shoot lasers
+	 Large Asteroids splits into two smaller asteroids.
+	 Increasing more diffuilty when fragment increases.
 
+# Screenshots:
+
+![Gameplay](Asset/Screenshot 2025-12-11 011001.png)
+![gameplay](Asset/Screenshot 2025-12-11 010917.png)
 
 # How to play:
 	1. Press Enter to start the game
